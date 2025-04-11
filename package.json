@@ -1,0 +1,21 @@
+{
+  "name": "amanda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transform": "md-to-pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudioLillo/amanda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ClaudioLillo/amanda/issues"
+  },
+  "homepage": "https://github.com/ClaudioLillo/amanda#readme"
+}
